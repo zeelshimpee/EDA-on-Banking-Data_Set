@@ -29,4 +29,20 @@ matplotlib
 seaborn
 
 # Analysis
-Through creating and visualizing various graphs we came accross certain patters through which required insights were found.
+In this section, we will use visualization tools to further explore the data and visualize relationships between variables. 
+We will use various types of plots, such as scatter plots, histograms, and box plots, to identify patterns and trends in the data.
+
+# Type of customer employment
+
+![eda employment type 1](https://user-images.githubusercontent.com/113959612/226982692-c7fa39ba-8990-4b26-84b2-1091c768c7c9.png)
+
+# Weather a customer is married or not
+
+![eda married](https://user-images.githubusercontent.com/113959612/226982774-88fb89ab-f562-48c4-b45c-3e907959893e.png)
+
+# Weather the customerr has car or not
+
+![eda car](https://user-images.githubusercontent.com/113959612/226982839-58d569a2-ca84-4eaa-a140-2d38870b333b.png)
+
+# Heatmap of various attributes
+![eda heatmap](https://user-images.githubusercontent.com/113959612/226982939-db44d4d7-31b7-4823-8949-2d6a18a9e32c.png)
