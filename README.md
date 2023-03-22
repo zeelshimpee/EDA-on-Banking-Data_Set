@@ -2,6 +2,8 @@
 In this repository, we will be exploring the Bank dataset using Python for Exploratory Data Analysis (EDA). The Bank dataset contains information about bank customers, their personal details, and the products and services they use.
 
 # Dataset Description
+
+The dataset is a fictional bank dataset with information about customers who have taken loans from the bank. It includes information such as age, job, marital status, education, credit history, and other attributes that may help us predict whether a customer will default or not.
 The Bank dataset contains the following columns:
 
 ID: Customer ID
@@ -20,13 +22,19 @@ Children: Number of children the customer has
 
 Car: Whether the customer owns a car or not
 
-# Required Libraries
-To run this notebook, you will need the following libraries:
+# Prerequisites
+To follow along with this guide, you will need to have Python 3 and the following Python libraries installed:
 
-pandas
-numpy
-matplotlib
-seaborn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+# Data Cleaning
+Before we start with the EDA, we need to clean the data. This involves checking for missing values, removing duplicates, and correcting any inconsistencies in the data.
+
+# Exploratory Data Analysis
+Now that the data is cleaned, we can start with the EDA. We will start by looking at some basic statistics of the dataset.
 
 # Analysis
 In this section, we will use visualization tools to further explore the data and visualize relationships between variables. 
